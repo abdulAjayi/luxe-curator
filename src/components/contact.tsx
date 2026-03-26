@@ -1,6 +1,9 @@
 function Contact() {
   return (
-    <div className="md:flex md:justify-between items-center md:gap-5 lg:px-24 xl:px-32 min-[1400px]:px-36 2xl:px-40 min-[1747px]:px-56 md:px-20">
+    <div
+      id="services"
+      className="md:flex md:justify-between items-center md:gap-5 lg:px-24 xl:px-32 min-[1400px]:px-36 2xl:px-40 min-[1747px]:px-56 md:px-20"
+    >
       <div className="py-8 sm:w-[50vw] w-[70vw] mx-auto md:mx-0 min-[1600px]:py-12">
         <h1 className="font-bold leading-12 text-5xl">Contact Us</h1>
         <p className="font-normal leading-6 text-[16px] py-6">

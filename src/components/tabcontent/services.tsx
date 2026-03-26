@@ -1,9 +1,6 @@
 function Services() {
   return (
-    <div
-      id="services"
-      className="relative bg-[url('/assets/interior2.webp')] bg-cover bg-center bg-no-repeat py-7 md:py-[55px] "
-    >
+    <div className="relative bg-[url('/assets/interior2.webp')] bg-cover bg-center bg-no-repeat py-7 md:py-[55px] ">
       <div className="absolute inset-0 bg-black/70"></div>
       <div className="items-center relative z-50">
         <h1 className="leading-12 text-[rgb(255,255,255)] text-5xl font-bold py-9 w-[80vw] min-[1513px]:py-20 mx-auto text-center">
