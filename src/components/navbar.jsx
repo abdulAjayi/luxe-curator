@@ -6,8 +6,8 @@ function navbar() {
           <img src="/assets/websitelogo.svg" alt="" />
         </div>
         <a
-          href="/"
-          className=" py-4 px-3 bg-[#1E2D6B] text-[#ffffff] uppercase font-[400px] leading-[20px] rounded-xl"
+          href="#services"
+          className=" py-4 px-3 bg-[#1E2D6B] text-[#ffffff] uppercase font-[400px] leading-[20px] rounded-xl hover:scale-110 duration-300 transition-all hover:bg-[#1d37a1]"
         >
           contact us
         </a>
